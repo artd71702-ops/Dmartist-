@@ -1,0 +1,6 @@
+{
+  "name": "OmniAI Assistant",
+  "description": "Multi-modal AI assistant with image generation, website creation, document analysis, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
